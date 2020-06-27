@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Creating a dream, not just an app"
-date:       2020-06-27 18:39:22 +0000
+date:       2020-06-27 14:39:23 -0400
 permalink:  creating_a_dream_not_just_an_app
 ---
 
